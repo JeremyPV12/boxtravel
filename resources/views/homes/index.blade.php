@@ -4,5 +4,5 @@
 
 @section('body')
     <h1>Esta es la pagina principal de clientes</h1>
-    <h2><a href="{{route('personas.index')}}">Regresar</a></h2>
+   <h1><a href="{{route('personas.index')}}">Ir a Persona</a></h1>
 @endsection
